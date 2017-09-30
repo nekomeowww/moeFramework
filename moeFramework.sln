@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "moeFramework", "moeFramework\moeFramework.vcxproj", "{7713E90B-AF0A-4733-91DA-64911827270B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7713E90B-AF0A-4733-91DA-64911827270B}.Debug|ARM.ActiveCfg = Debug|ARM
+		{7713E90B-AF0A-4733-91DA-64911827270B}.Debug|ARM.Build.0 = Debug|ARM
+		{7713E90B-AF0A-4733-91DA-64911827270B}.Debug|x64.ActiveCfg = Debug|x64
+		{7713E90B-AF0A-4733-91DA-64911827270B}.Debug|x64.Build.0 = Debug|x64
+		{7713E90B-AF0A-4733-91DA-64911827270B}.Debug|x86.ActiveCfg = Debug|x86
+		{7713E90B-AF0A-4733-91DA-64911827270B}.Debug|x86.Build.0 = Debug|x86
+		{7713E90B-AF0A-4733-91DA-64911827270B}.Release|ARM.ActiveCfg = Release|ARM
+		{7713E90B-AF0A-4733-91DA-64911827270B}.Release|ARM.Build.0 = Release|ARM
+		{7713E90B-AF0A-4733-91DA-64911827270B}.Release|x64.ActiveCfg = Release|x64
+		{7713E90B-AF0A-4733-91DA-64911827270B}.Release|x64.Build.0 = Release|x64
+		{7713E90B-AF0A-4733-91DA-64911827270B}.Release|x86.ActiveCfg = Release|x86
+		{7713E90B-AF0A-4733-91DA-64911827270B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {080FB6DC-A4ED-4DAC-8771-266AD1EC1FA6}
+	EndGlobalSection
+EndGlobal
