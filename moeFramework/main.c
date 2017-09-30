@@ -16,3 +16,6 @@
 	 //Todo - Follow up with Todonium
 	 return;
  }
+ 
+ // As for Plugin Support on C Language with @moeFramework and @nekoKit
+ // Read more info on https://github.com/moeFramwork/moeFramework-Design-System/
