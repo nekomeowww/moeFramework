@@ -8,7 +8,9 @@ and [Plex](https://www.plex.tv/)). By the powerful tool [@nekoKit](https://githu
 has provided, the moeFramework has the compatibility with the whole deisng system
 of nekoKit, you can use your nekoKit projects in the moeFramework as well.
 
-## Introduce the moeFramework Design system
+## Introduction
+
+### Introduce the moeFramework Design system
 
 [Documantation](https://github.com/moeFramework/moeFramework-Design-System) of
 moeFramework Design System
@@ -16,6 +18,20 @@ moeFramework Design System
 The design system was create to assist you on building your applications in the
 way that we expect you to do with high efficiency.
 
-## Prepare the workspace
+### Introduce the [@nekoKit](https://github.com/nekoKit)
+
+Todo
+
+## Get Started
+
+### Prepare the workspace
+
+Todo
+
+### Setup the moeEditor and IDE
+
+Todo
+
+# Documentation
 
 Todo
