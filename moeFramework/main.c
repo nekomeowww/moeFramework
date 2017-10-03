@@ -19,3 +19,8 @@
  
  // As for Plugin Support on C Language with @moeFramework and @nekoKit
  // Read more info on https://github.com/moeFramwork/moeFramework-Design-System/
+ 
+ //AI support notice
+ 
+ //EMOSYS added
+ //EMOSYS/EMOIL added for AI usage
